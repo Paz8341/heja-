@@ -1,0 +1,19 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(205, 206, 216);
+    margin: auto;
+    padding:0 ;
+    color: rgb(16, 16, 15);
+    }
+header {
+    background-color: rgb(206, 218, 151);
+    color: rgb(238, 237, 244);
+    text-align:center;
+    padding: 20px;
+       }
+main {
+    text-align:center;
+    margin: 25px;
+    position: static;
+    
+}       
